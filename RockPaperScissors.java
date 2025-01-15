@@ -4,7 +4,7 @@
 import java.util.Scanner;
 import java.util.Random;
 
-class RockPaperScissorsLoop
+class RockPaperScissors
 {
     public static void main(String[] args)
     {
